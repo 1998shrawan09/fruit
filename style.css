@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+body{
+    font-family: 'open Sans',sans-serif;
+    background: -webkit-linear-gradient(to left,#DDEF88,#FFEEEE);
+    background: linear-gradient(to left,#DDEF88,#FFEEEE);
+}
+.container{
+    display: flex;
+}
+.cards{
+    width: 300px;
+
+}
+.card-img img{
+    width: 100px;
+}
+img{
+    height: 350px;
+    width: 500px;
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+}
+p{
+    margin-left: 300px;
+    width: 300px;
+}
+h2{
+    margin-left: 300px;
+}
+button{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: transparent;
+}
